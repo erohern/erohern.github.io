@@ -6,7 +6,7 @@ Here are a list of projects I have worked on.
 
 In this project, I trained a neural network to learn how to play the game "Flappy Bird".
 
-![Gen1](https://github.com/erohern/erohern.github.io/blob/cd8fe47d0516716b125185daf180364a64fe1e68/Movies/FlappyBirdAI_Gen1.mp4)
+https://github.com/erohern/erohern.github.io/assets/122631579/b4b104da-1878-42c4-a1f2-925924e683a8
 
 ## Molecular Dynamic Simulations of Rigid Squares
 
