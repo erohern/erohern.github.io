@@ -1,5 +1,3 @@
-# Eli R. O'Hern's Homepage
-
 Here are a list of projects I have worked on.
 
 ## Flappy Bird AI
