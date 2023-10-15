@@ -10,7 +10,7 @@ Initial trial:
 
 After training:
 
-<img src="https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/FlappyBirdAI_Gen2.gif" width="300">
+<img src="https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/FlappyBirdAI_Gen6.gif" width="300">
 
 ## Molecular Dynamics simulations of rigid disks
 
