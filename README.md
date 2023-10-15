@@ -5,7 +5,7 @@ I have worked on several coding projects in python and java. Please click on the
 In this [project](https://github.com/erohern/FappyBirdAI.git), I trained a neural network to learn how to play the videogame, “Flappy Bird,” where a flying bird tries to navigate through a maze.
 
 Initial trial:
-![Gen1](https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/FlappyBirdAI_Gen1.gif)
+![Gen1](https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/FlappyBirdAI_Gen1.gif | width=300)
 
 After training:
 ![Gen1](https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/FlappyBirdAI_Gen6.gif)
