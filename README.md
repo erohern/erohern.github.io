@@ -6,8 +6,6 @@ In this [project](https://github.com/erohern/FappyBirdAI.git), I trained a neura
 
 Initial trial:
 
-![IMG](Movies/All_0189.png)
-
 <img src="Movies/FlappyBirdAI_Gen1.gif" width="300">
 
 After training:
