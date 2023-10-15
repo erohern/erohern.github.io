@@ -4,7 +4,11 @@ I have worked on several coding projects in python and java. Please click on the
 
 In this [project](https://github.com/erohern/FappyBirdAI.git), I trained a neural network to learn how to play the videogame, “Flappy Bird,” where a flying bird tries to navigate through a maze.
 
+Initial trial:
 ![Gen1](https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/FlappyBirdAI_Gen1.gif)
+
+After training:
+![Gen1](https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/FlappyBirdAI_Gen6.gif)
 
 ## Molecular Dynamics simulations of rigid disks
 
@@ -12,7 +16,8 @@ In this [project](https://github.com/erohern/SquareMD.git), I developed a molecu
 
 ## Molecular Dynamics simulations of rigid squares
 
-In this [project](https://github.com/erohern/SquareMD.git), I developed a molecular dynamics simulation of colliding, non-rotating squares. The user can pre-select the number of squares in a fixed area. In the future, I will implement rotational motion.
+In this [project](https://github.com/erohern/SquareMD.git), I developed a molecular dynamics simulation of colliding, non-rotating squares. The user can pre-select the number of squares in a fixed area. In the future, I will implement rotational motion. See the video below for an example.
+![Square](https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/Test2.gif)
 
 ## I am working through coding problems posted on [Project Euler](https://projecteuler.net/)
 
