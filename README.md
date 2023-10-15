@@ -6,13 +6,13 @@ In this [project](https://github.com/erohern/FappyBirdAI.git), I trained a neura
 
 Initial trial:
 
-![IMG](https://github.com/erohern/erohern.github.io/blob/22d5294a154e451efea4273bfb045b42dcf75605/Movies/All_0189.png)
+![IMG](Movies/All_0189.png)
 
-<img src="https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/FlappyBirdAI_Gen1.gif" width="300">
+<img src="Movies/FlappyBirdAI_Gen1.gif" width="300">
 
 After training:
 
-<img src="https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/FlappyBirdAI_Gen6.gif" width="300">
+<img src="Movies/FlappyBirdAI_Gen6.gif" width="300">
 
 ## Molecular Dynamics simulations of rigid disks
 
@@ -22,7 +22,7 @@ In this [project](https://github.com/erohern/SquareMD.git), I developed a molecu
 
 In this [project](https://github.com/erohern/SquareMD.git), I developed a molecular dynamics simulation of colliding, non-rotating squares. The user can pre-select the number of squares in a fixed area. See the video below for an example. In the future, I will implement rotational motion.
 
-<img src="https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/Test2.gif" width="400">
+<img src="Movies/Test2.gif" width="400">
 
 ## I am working through coding problems posted on [Project Euler](https://projecteuler.net/)
 
