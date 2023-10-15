@@ -14,7 +14,9 @@ After training:
 
 ## Molecular Dynamics simulations of rigid disks
 
-In this [project](https://github.com/erohern/SquareMD.git), I developed a molecular dynamics simulation of colliding elastic disks. The user can pre-select the number of disks in a fixed area.  These simulations can be used to study atomic liquids, bacteria, and other biological systems. 
+In this [project](https://github.com/erohern/SquareMD.git), I developed a molecular dynamics simulation of colliding elastic disks. The user can pre-select the number of disks in a fixed area. See an example below. These simulations can be used to study atomic liquids, bacteria, and other biological systems. 
+
+<img src="Movies/Circle_200.gif" width="400">
 
 ## Molecular Dynamics simulations of rigid squares
 
