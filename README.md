@@ -4,6 +4,12 @@ I have worked on several coding projects in python and java. Please click on the
 
 In this [project](https://github.com/erohern/FappyBirdAI.git), I trained a neural network to learn how to play the videogame, “Flappy Bird,” where a flying bird tries to navigate through a maze.
 
+
+
+https://github.com/erohern/erohern.github.io/assets/122631579/ddfab76f-11b5-4a16-ae81-f8dda0761a41
+
+
+
 ## Molecular Dynamics simulations of rigid disks
 
 In this [project](https://github.com/erohern/SquareMD.git), I developed a molecular dynamics simulation of colliding elastic disks. The user can pre-select the number of disks in a fixed area.  These simulations can be used to study atomic liquids, bacteria, and other biological systems. 
