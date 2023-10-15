@@ -1,7 +1,3 @@
----
-layout: default
----
-
 I have worked on several coding projects in python and java. Please click on the associated codes and movies. 
 
 ## Flappy Bird AI
