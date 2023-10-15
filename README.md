@@ -18,7 +18,7 @@ In this [project](https://github.com/erohern/SquareMD.git), I developed a molecu
 
 ## Molecular Dynamics simulations of rigid squares
 
-In this [project](https://github.com/erohern/SquareMD.git), I developed a molecular dynamics simulation of colliding, non-rotating squares. The user can pre-select the number of squares in a fixed area. In the future, I will implement rotational motion. See the video below for an example.
+In this [project](https://github.com/erohern/SquareMD.git), I developed a molecular dynamics simulation of colliding, non-rotating squares. The user can pre-select the number of squares in a fixed area. See the video below for an example. In the future, I will implement rotational motion.
 
 <img src="https://github.com/erohern/erohern.github.io/blob/ce00bb1b420134daccebf3ea3450971d9aaa6e1b/Movies/Test2.gif" width="400">
 
