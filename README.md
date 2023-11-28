@@ -24,6 +24,12 @@ In this [project](https://github.com/erohern/SquareMD.git), I developed a molecu
 
 <img src="Movies/Test2.gif" width="400">
 
+## "Life" Simulation
+
+In this project, I developed a simulation to evolve clusters.
+
+<img src="Movies/Life_Test1.gif" width="400">
+
 ## I am working through coding problems posted on [Project Euler](https://projecteuler.net/)
 
 Several example problems and the solutions I obtained are listed below. Codes can be found [here](https://github.com/erohern/ProjectEuler.git).
