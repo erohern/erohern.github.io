@@ -24,9 +24,9 @@ In this [project](https://github.com/erohern/SquareMD.git), I developed a molecu
 
 <img src="Movies/Test2.gif" width="400">
 
-## "Life" Simulation
+## Game of Life
 
-In this project, I developed a simulation to evolve clusters.
+This movie is a cellular automata implementing John Conway's rules for the Game of Life. At the end of the movie, the system reaches a fixed point.
 
 <img src="Movies/Life_Test1.gif" width="400">
 
