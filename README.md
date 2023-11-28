@@ -28,7 +28,7 @@ In this [project](https://github.com/erohern/SquareMD.git), I developed a molecu
 
 This movie is a cellular automata implementing John Conway's rules for the Game of Life. At the end of the movie, the system reaches a fixed point.
 
-<img src="Movies/Life_Test1.gif" width="400">
+<img src="Movies/Life_Test1.mp4" width="400">
 
 ## I am working through coding problems posted on [Project Euler](https://projecteuler.net/)
 
